@@ -1,5 +1,5 @@
-import {Component} from 'angular2/core';
-import {NgFor, NgSwitch, NgSwitchWhen} from "angular2/common";
+import {Component} from '@angular/core';
+import {NgFor, NgSwitch, NgSwitchWhen} from "@angular/common";
 
 import {ChatMessage} from "./components/message";
 import {ChatLogin} from "./components/login";
